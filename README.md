@@ -1,6 +1,6 @@
 # Hi, I'm Fatimah
 
-Business Analytics student interested in data analysis and structured problem-solving.
+I'm a Business Analytics student interested in data analysis and structured problem-solving. I'm currently about to start my fourth semester.
 
 Currently learning:
 - SQL
